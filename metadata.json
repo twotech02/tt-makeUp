@@ -1,0 +1,6 @@
+{
+  "name": "AESTHETICA Beauté Atelier",
+  "description": "Luxury beauty parlor and high-definition makeup artist studio featuring bespoke bridal, editorial, and red carpet transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
